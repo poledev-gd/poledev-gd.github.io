@@ -1,4 +1,4 @@
-import{j as e,d as i}from"./index-BuwwOo9j.js";const t=i.img`
+import{j as e,d as i}from"./index-DavSehXj.js";const t=i.img`
   position: relative;
 
   width: 60%;
