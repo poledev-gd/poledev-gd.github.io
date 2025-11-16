@@ -1,0 +1,1 @@
+import{j as r,L as e}from"./index-oLqDUwOF.js";const n=()=>r.jsx("span",{className:"unicode font-sans! duration-100",children:"↗"});function s({text:s,to:t}){return r.jsx(e,{to:t,target:"_blank",referrerPolicy:"no-referrer",children:r.jsxs("button",{className:"btn",children:[s," ",r.jsx(n,{})]})})}export{s as E};
